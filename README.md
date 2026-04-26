@@ -9,7 +9,8 @@ A full-stack Request for Quote (RFQ) system designed for British Auctions. The s
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e43f61f3-80f5-4477-8483-8fb08f910fa6" />
+  <img src="https://github.com/user-attachments/assets/4419d8df-03f4-476f-88e0-4ac073deedd0" />
+" />
 </div>
 
 
